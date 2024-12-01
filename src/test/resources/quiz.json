@@ -1,0 +1,27 @@
+[
+  {
+    "questions": [
+      {
+        "question": "What is universe?",
+        "options": [
+          "something",
+          "nothing",
+          "maybe",
+          "oyster"
+        ],
+        "answer": "something"
+      },
+      {
+        "question": "What is black hole?",
+        "options": [
+          "something",
+          "nothing",
+          "maybe",
+          "oyster"
+        ],
+        "answer": "oyster"
+      }
+    ],
+    "_id": "674a70ea594b607a4c093a31"
+  }
+]
